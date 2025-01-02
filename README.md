@@ -1,16 +1,16 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=FF4500&height=150&section=header&text=Greetings!&fontSize=45&fontAlign=50&fontColor=ffffff&animation=twinkling"/>
 
-<!--
-**BielzinhoPereira/BielzinhoPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Pereira;I'm+23+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mains Skills:
+[![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white)](https://skillicons.dev)
+[![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://skillicons.dev)
+
+
+
+
+
+
+
+
